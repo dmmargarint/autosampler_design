@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.1.5";"";
+"SUPPLIER";"Igus";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-25012011-082634";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Igus T Series, TS-04-09-600, Linear Guide Rail 9mm width 600mm Length";"";
+"TraceParts.InstanceId";"10-25012011-0826343O55LBKO8D0KAG31L60H2OMWK";"";
+"TraceParts.PartTitle";"Igus T Series, TS-04-09-600, Linear Guide Rail 9mm width 600mm Length";"";
+"REFERENCE";"TS-04-09-600";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/4885029?cm_mmc=en-ds-_-mcad-_-traceparts-_-4885029'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"rs_stock_number";"4885029";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-25012011-082634";"";
